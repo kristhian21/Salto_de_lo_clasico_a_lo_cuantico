@@ -24,6 +24,13 @@ _ejemplo:_
                        
 - Vector_estados = [1, 0, 1]
 
-_Para el experimento de las rendijas cuantico las entradas son numeros imaginarios que estan representados como un tupla:_
+_Para el experimento de las rendijas cuantico, las entradas son numeros imaginarios que estan representados como un tupla:_
+
+_ejemplo:_
 
 - numeroImaginario: (parteReal, parteImaginaria)
+- Matriz_adyacencia = [[(1, 2), (0, 1)], [(1, 1), (1, -1)]]
+- Vector_estados = [1, 0]
+
+## Autor 
+_Kristhian David Segura_
